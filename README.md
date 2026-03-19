@@ -32,7 +32,7 @@ Concepts: EDA, Statistics, Data Modeling
 
 📱 Mobile Sales Dashboard (Power BI)
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 Advanced Data Analytics
 

@@ -45,7 +45,3 @@ Enhancing Dashboard Storytelling
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Kotnala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankita-kotnala-949905218/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ankitakotnala-black?style=for-the-badge&logo=github)](https://github.com/ankitakotnala)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Kotnala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankita-kotnala-949905218/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ankitakotnala-black?style=for-the-badge&logo=github)](https://github.com/ankitakotnala)

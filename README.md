@@ -4,7 +4,7 @@ I am an aspiring Data Analyst and a B.Tech student in Computer Science (AI & ML)
 
 💡 I have hands-on experience in data analysis, visualization, and machine learning, and I love solving real-world problems using tools like Python, SQL, and Power BI.
 
-🚀 What I Do
+## 🚀 What I Do
 
 📊 Data Analysis & Visualization
 
@@ -16,7 +16,7 @@ I am an aspiring Data Analyst and a B.Tech student in Computer Science (AI & ML)
 
 🗄️ Working with Databases (MySQL, PostgreSQL)
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Languages: Python, SQL, C++
 
@@ -26,7 +26,7 @@ Tools: Git, Jupyter Notebook, Google Colab
 
 Concepts: EDA, Statistics, Data Modeling
 
-📌 Projects
+## 📌 Projects
 
 🌧️ Rainfall Prediction using Machine Learning
 
@@ -38,21 +38,20 @@ Advanced Data Analytics
 
 Real-world Business Problem Solving
 
-Enhancing Dashboard Storytelling
+Enhancing Dashboard Storytellin
 
-📫 Connect With Me
+### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/ankita-kotnala-949905218/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankita-kotnala-949905218/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ankitakotnala">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+</p>
 
-
-
-
-<a href="https://github.com/ankitakotnala" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-</a>
-<!--
 **ankitakotnala/ankitakotnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

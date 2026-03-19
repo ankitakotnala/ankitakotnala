@@ -38,30 +38,14 @@ Advanced Data Analytics
 
 Real-world Business Problem Solving
 
-Enhancing Dashboard Storytellin
+Enhancing Dashboard Storytelling
 
 ### 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankita-kotnala-949905218/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ankitakotnala">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Kotnala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankita-kotnala-949905218/)
 
-**ankitakotnala/ankitakotnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-ankitakotnala-black?style=for-the-badge&logo=github)](https://github.com/ankitakotnala)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Kotnala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankita-kotnala-949905218/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-ankitakotnala-black?style=for-the-badge&logo=github)](https://github.com/ankitakotnala)

@@ -41,12 +41,7 @@ Real-world Business Problem Solving
 Enhancing Dashboard Storytelling
 
 ### 📫 Connect With Me
-### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/ankita-kotnala-949905218/">
-  <img src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" width="35"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Kotnala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-kotnala-949905218/)
 
-<a href="https://github.com/ankitakotnala">
-  <img src="https://unpkg.com/simple-icons@v9/icons/github.svg" width="35"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-ankitakotnala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitakotnala)

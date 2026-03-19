@@ -42,10 +42,13 @@ Enhancing Dashboard Storytelling
 
 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/ankita-kotnala-949905218/
+<a href="https://www.linkedin.com/in/ankita-kotnala-949905218/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
 
-💻 GitHub: https://github.com/ankitakotnala
-
+<a href="https://github.com/ankitakotnala" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+</a>
 <!--
 **ankitakotnala/ankitakotnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
